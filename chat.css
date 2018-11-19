@@ -1,0 +1,29 @@
+
+#comments{
+    border: solid 2px black;
+    margin: 5px;
+    width: 90%;
+    height: 150px;  
+}
+/* #message{
+    border: solid 2px black;
+    margin: 5px;
+    width: 90%;
+    height: 50px;   
+}*/
+#user_name{
+    border: solid 2px black;
+    margin: 5px;
+    width: 10%;
+
+}
+textarea {
+    border: solid 2px black;
+    width: 90%;
+    height: 100px;
+  }
+  #send{
+    border: solid 2px black;
+    position: center;
+    width: 40%;
+  }
